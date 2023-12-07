@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935455184326",
+    "project_id": "progra-954f6",
+    "storage_bucket": "progra-954f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935455184326:android:36a31bad52d3c04a8b8ec7",
+        "android_client_info": {
+          "package_name": "com.example.datosbasedatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOa0dWPIo-wlR62S6HApf2u2Nxnaxp3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935455184326:android:8fff0a2fda7363fc8b8ec7",
+        "android_client_info": {
+          "package_name": "com.example.firebasestrems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOa0dWPIo-wlR62S6HApf2u2Nxnaxp3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
